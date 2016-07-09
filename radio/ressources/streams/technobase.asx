@@ -1,0 +1,12 @@
+<ASX VERSION = "3.0">
+   <TITLE>TechnoBase.FM Streams</TITLE>
+   <AUTHOR>TechnoBase.FM</AUTHOR>
+   <COPYRIGHT>(c) 2016 TechnoBase.FM</COPYRIGHT>
+   <ENTRY>
+     <TITLE>TechnoBase.FM - MP3 192k - High Quality - (DSL/Cable)</TITLE>
+     <ABSTRACT>TechnoBase.FM High-Quality-Stream</ABSTRACT>
+     <AUTHOR>TechnoBase.FM</AUTHOR>
+     <COPYRIGHT>(c) 2016 TechnoBase.FM</COPYRIGHT>
+     <REF HREF = "http://listen.technobase.fm/tunein-mp3-asx"/>
+   </ENTRY>
+</ASX>
